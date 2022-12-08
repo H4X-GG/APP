@@ -1,4 +1,4 @@
-<p align="center"><img src="https://img.shields.io/badge/FROM%20 BANGLADESHI-IM ONLY 15 YEARS OLD-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/IM FROM%20 BANGLADESH-IM ONLY 15 YEARS OLD-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 <h3 align="center">
 
